@@ -3,7 +3,7 @@ I am a full-stack software engineer based in Ankara, Turkey
 
 
 
-My Tech Stack
+### My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,python,dotnet,react,nextjs,postgres)](https://skillicons.dev)
 
