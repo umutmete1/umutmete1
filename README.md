@@ -5,7 +5,7 @@ I am a full-stack software engineer based in Ankara, Turkey
 
 My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,dotnet,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,python,dotnet,react,nextjs,postgres)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutmete1)](https://github.com/anuraghazra/github-readme-stats)
 
