@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a backend developer from turkey ankara
+I am a full-stack software engineer based in Ankara, Turkey
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutmete1)](https://github.com/anuraghazra/github-readme-stats)
 
