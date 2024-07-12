@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/af3b1968-2a6f-4e17-95b8-fdccbf6529e9)
+![gif](https://github.com/user-attachments/assets/af3b1968-2a6f-4e17-95b8-fdccbf6529e9)
 
 I am a full-stack software engineer based in Ankara, Turkey
 
