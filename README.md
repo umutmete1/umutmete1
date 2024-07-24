@@ -9,7 +9,7 @@ I am a full-stack software engineer based in Ankara, Turkey
 [![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,python,dotnet,react,nextjs,postgres)](https://skillicons.dev)
 
 
-![Anurag's GitHub stats](github-readme-stats-jet-two-87.vercel.app/api?username=umutmete1)
+[![Anurag's GitHub stats](https://github-readme-stats-umut-metes-projects.vercel.app/api?username=umutmete1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
