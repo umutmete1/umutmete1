@@ -10,7 +10,7 @@ I am a full-stack software engineer based in Ankara, Turkey
 
 
 <img src="https://github-readme-umutmete1stats.vercel.app/api?username=umutmete1"/>
-[![umutmete1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=umutmete1&theme=vue-dark&hide_border=true)]
+
 
 
 <!--
